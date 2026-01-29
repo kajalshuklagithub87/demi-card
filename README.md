@@ -1,2 +1,2 @@
-# demi-card
-This is user friendly card for beginer
+# demi-localstore task
+This is user friendly localstore task for beginer
